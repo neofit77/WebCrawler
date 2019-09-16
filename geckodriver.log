@@ -1,0 +1,33 @@
+1568657485684	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.soACsLJXexBl"
+1568657487518	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568657487518	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568657487519	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568657487519	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568657495344	Marionette	INFO	Listening on port 44041
+1568657495481	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.maxbet.rs/ibet/download/hotjar_b_sr/js.json, line 2: SyntaxError: expected expression, got '<'
+JavaScript error: https://casinolobby.maxbet.rs/Scripts/jquery.signalR-2.2.1.min.js, line 9: TypeError: n.transport is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1568657554337	Marionette	INFO	Stopped listening on port 44041
+1568657628505	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KVWWbsqS2Z20"
+1568657629809	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568657629810	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568657629810	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568657629810	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568657634444	Marionette	INFO	Listening on port 37081
+1568657634469	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.maxbet.rs/ibet/download/hotjar_b_sr/js.json, line 2: SyntaxError: expected expression, got '<'
+1568657651365	Marionette	INFO	Stopped listening on port 37081
+JavaScript error: https://casinolobby.maxbet.rs/Scripts/jquery.signalR-2.2.1.min.js, line 9: TypeError: n.transport is null
+1568657799007	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NSWi2xp0f23p"
+1568657800483	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568657800484	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568657800484	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568657800484	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568657805745	Marionette	INFO	Listening on port 35757
+1568657805771	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.maxbet.rs/ibet/download/hotjar_b_sr/js.json, line 2: SyntaxError: expected expression, got '<'
+1568657825476	Marionette	INFO	Stopped listening on port 35757
+JavaScript error: https://casinolobby.maxbet.rs/Scripts/jquery.signalR-2.2.1.min.js, line 9: TypeError: n.transport is null
